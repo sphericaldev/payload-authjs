@@ -19,7 +19,7 @@
     "@payloadcms/next": "3.5.0",
     "@payloadcms/ui": "3.5.0",
     "jsonwebtoken": "^9.0.2",
-    "next": "15.0.4",
+    "next": "15.1.2",
     "next-auth": "5.0.0-beta.25",
     "nodemailer": "^6.9.16",
     "payload": "3.5.0",
